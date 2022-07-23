@@ -243,14 +243,6 @@ body {
     border-radius: 50%;
 }
 
-.name {
-    color: white;
-}
-
-.vb {
-    color: var(--primary-sp);
-}
-
 .irene-quote {
     color: white;
 }
@@ -293,13 +285,6 @@ body {
     border-radius: 50%;
 }
 
-.name {
-    color: white;
-}
-
-.vb {
-    color: var(--primary-sp);
-}
 
 .anne-quote {
     color: white;

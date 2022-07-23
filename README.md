@@ -22,10 +22,14 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ## My process
 
-- I wrote the html first to structure the webpage and then used flexbox and classes in css to style the page.
+- I wrote the html first to structure the webpage.
+- I created the desktop design by using CSS Grid.
+- I used Flexbox to style and align items in the Grid.
+- I created the responsive design by redefining the Grid columns and rows for smaller screens.
 
 ### Built with
 
 - HTML5
-- CSS
+- CSS Custom Properties
+- CSS Grid
 - Flexbox
